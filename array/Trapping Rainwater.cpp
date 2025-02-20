@@ -30,7 +30,7 @@ public:
     }
 };
 
-// O(n), O(1)
+// O(n), O(1) - go through this*
 
 class Solution {
 public:
